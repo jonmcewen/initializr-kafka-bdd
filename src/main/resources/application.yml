@@ -46,4 +46,8 @@ initializr:
       id: groovy
       default: false
   group-id:
-    value: com.mycompany.project
+    value: org.acme
+  boot-versions:
+    - name : 2.4.4
+      id: 2.4.4
+      default: true
